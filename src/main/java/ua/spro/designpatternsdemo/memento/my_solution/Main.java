@@ -1,4 +1,4 @@
-package ua.spro.designpatternsdemo.memento;
+package ua.spro.designpatternsdemo.memento.my_solution;
 
 public class Main {
     public static void main(String[] args) {

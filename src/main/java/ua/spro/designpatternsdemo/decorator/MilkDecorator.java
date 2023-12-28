@@ -17,7 +17,7 @@ public class MilkDecorator extends CoffeeDecorator{
 
     @Override
     public String toString() {
-        return "addMilk {Description: "+getDescription()+
+        return "addMilk { Description: "+getDescription()+
                 ", cost: " + getCost() +
                 "}";
     }

@@ -1,4 +1,4 @@
-package ua.spro.designpatternsdemo.visitor;
+package ua.spro.designpatternsdemo.visitor.employee_management;
 
 public class PayrollProcessingExample {
     public static void main(String[] args) {

@@ -1,4 +1,9 @@
-package ua.spro.designpatternsdemo.visitor.computer_system;
+package ua.spro.designpatternsdemo.visitor.computer_system.visitors;
+
+import ua.spro.designpatternsdemo.visitor.computer_system.parts.Keyboard;
+import ua.spro.designpatternsdemo.visitor.computer_system.parts.Monitor;
+import ua.spro.designpatternsdemo.visitor.computer_system.parts.Mouse;
+
 //concrete visitor
 public class UpgradeVisitor implements ComputerPartVisitor{
 

@@ -1,4 +1,4 @@
-package ua.spro.designpatternsdemo.memento;
+package ua.spro.designpatternsdemo.memento.my_solution;
 
 import java.util.Stack;
 

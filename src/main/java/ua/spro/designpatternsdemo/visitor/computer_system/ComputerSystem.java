@@ -1,5 +1,8 @@
 package ua.spro.designpatternsdemo.visitor.computer_system;
 
+import ua.spro.designpatternsdemo.visitor.computer_system.parts.ComputerPart;
+import ua.spro.designpatternsdemo.visitor.computer_system.visitors.ComputerPartVisitor;
+
 public class ComputerSystem {
     private final ComputerPart[] parts;
 

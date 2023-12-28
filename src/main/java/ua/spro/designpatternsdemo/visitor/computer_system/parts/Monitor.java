@@ -1,6 +1,7 @@
-package ua.spro.designpatternsdemo.visitor.computer_system;
+package ua.spro.designpatternsdemo.visitor.computer_system.parts;
 
 import lombok.AllArgsConstructor;
+import ua.spro.designpatternsdemo.visitor.computer_system.visitors.ComputerPartVisitor;
 
 @AllArgsConstructor
 public class Monitor implements ComputerPart{
